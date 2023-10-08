@@ -1,0 +1,33 @@
+{
+    "D22Request": {
+        "payload": {
+            "text": "(No Inclueye I.G.V.) Por evento 10% del monto a indemnizar, mínimo US$200.00 Excepto para: Robo Parcial 10% del monto a indemnizar, mínimo US$150.00 Siniestros atendidos en talleres preferenciales 10% del monto a indemnizar, mínimo US$150.00 Robo de accesorios Musicales 10% del monto a indemnizar, mínimo 150.00 Responsabilidad civil 10% del monto a indemnizar, mínimo 150.00 Robo total solo se aseguran con GPS obligatorio hasta el segundo año de antigüedad, sin coaseguro. Tercer año, coaseguro 80/20"
+        }
+    },
+    "D85Request": {
+        "payload": {
+            "text": "*Los siniestros, serán atendidos únicamente en la relación de talleres especiales descritos en la cláusula  VEHA07 20% del monto indemnizable, mínimo US$ 200 20% del monto indemnizable para pérdida total"
+        }
+    },
+    "D10Request": {
+        "payload": {
+            "text": "* Por Evento 15% del monto del siniestro, mínimo US$ 150.00 en Talleres Afiliados Multimarca * Por Evento 15% del monto del siniestro, mínimo US$ 250.00 en Talleres Afiliados"
+        }
+    },
+    "D86Request": {
+        "payload": {
+            "text": "- Ausencia de control: 25.00% del monto indemnizar, mínimo US$ 500.00 (Talleres Afiliados). - Ausencia de control: 25.00% del monto indemnizar, mínimo US$ 300.00 (Talleres Afiliados Multimarca). -Pérdida total por ausencia de control: 25.00% del monto a i"
+        }
+    },
+    "D88Request": {
+        "payload": {
+            "text": ". 20% del monto a indemnizar, mínimo US$ 250.00, para todo y cada evento, en talleres afiliados 20% del monto a indemnizar, mínimo US$ 200.00, para todo y cada evento, en talleres afiliados multimarca Pérdida Total, Incendio, Robo Total:  20% del monto del siniestro Conductor varón menor  de 25 años, 25% del monto del siniestro mínimo US$ 300, para todo y cada evento Rotura de lunas, solo para reposición de lunas nacionales sin deducible Vías no autorizadas 25% del monto a indemnizar, mínimo US$ 300.00, para todo y cada evento"
+        }
+    },    
+    "D314Request": {
+        "payload": {
+            "text": "10% del monto del siniestro, minimo US$ 500.00 en Talleres Nissan Maquinarias 10% del monto del siniestro, minimo US$ 700.00 en Otros Talleres En caso de discrepancia prevalece el mayor. No incluye I.G.V."
+        }
+    }
+    
+}

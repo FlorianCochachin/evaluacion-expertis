@@ -1,0 +1,26 @@
+{
+  "name": "evaluacion-expertis",
+  "version": "1.0.0",
+  "description": "<!-- title: 'AWS NodeJS Example' description: 'This template demonstrates how to deploy a NodeJS function running on AWS Lambda using the traditional Serverless Framework.' layout: Doc framework: v3 platform: AWS language: nodeJS priority: 1 authorLink: 'https://github.com/serverless' authorName: 'Serverless, inc.' authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4' -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "serverless offline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorianCochachin/evaluacion-expertis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorianCochachin/evaluacion-expertis/issues"
+  },
+  "homepage": "https://github.com/FlorianCochachin/evaluacion-expertis#readme",
+  "devDependencies": {
+    "serverless": "^3.35.2",
+    "serverless-offline": "^13.2.0",
+    "jest": "^25.1.0",
+    "jest-cucumber": "^3.0.1"
+  }
+}

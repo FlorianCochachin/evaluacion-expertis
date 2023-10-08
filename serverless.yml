@@ -1,0 +1,26 @@
+
+service: APP-BACKEN-01
+
+plugins:
+  - serverless-offline
+  #- serverless-plugin-reducer
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  lambdaHashingVersion: 20201221
+  stackName : DEMO-01-EVENT
+  region: us-east-1
+  apiGateway:
+    restApiId: 2gs07rnreh
+    restApiRootResourceId: os7r9ykp43
+    minimumCompressionSize: 1024
+
+functions:
+  hello:
+    handler: handler.registrar
+    name: DEMO-0001-REGISTRO
+    events:
+      - httpApi:
+          path: /hello
+          method: get

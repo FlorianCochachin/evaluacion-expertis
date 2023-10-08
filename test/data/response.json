@@ -1,0 +1,107 @@
+{
+    "D22Response": {
+        "payload": [
+            {
+                "deducible": 10,
+                "copago": 150,
+                "moneda": "USD",
+                "tipo": "NO TIPO",
+                "marca": "NO MARCA",
+                "taller": "NO TALLER"
+            }
+        ]
+    },
+    "D85Response": {
+        "payload": [
+            {
+                "deducible": 20,
+                "copago": 200,
+                "moneda": "USD",
+                "tipo": "NO TIPO",
+                "marca": "NO MARCA",
+                "taller": "NO TALLER"
+            }
+        ]
+    },
+    "D10Response": {
+        "payload": [
+           {
+                "deducible": 15,
+                "copago": 150,
+                "moneda": "USD",
+                "tipo": "Multimarca",
+                "marca": "NO MARCA",
+                "taller": "NO TALLER"
+            },
+           {
+                "deducible": 15,
+                "copago": 250,
+                "moneda": "USD",
+                "tipo": "NO TIPO",
+                "marca": "NO MARCA",
+                "taller": "NO TALLER"
+            }
+         ]
+    },
+    "D86Response": {
+        "payload": [
+           {
+                "deducible": 25,
+                "copago": 500,
+                "moneda": "USD",
+                "tipo": "NO TIPO",
+                "marca": "NO MARCA",
+                "taller": "NO TALLER"
+           },
+          {
+                "deducible": 25,
+                "copago": 300,
+                "moneda": "USD",
+                "tipo": "Multimarca",
+                "marca": "NO MARCA",
+                "taller": "NO TALLER"
+            }
+         ]
+    },
+    "D88Response":{
+        "payload": [
+          {
+                "deducible": 20,
+                "copago": 250,
+                "moneda": "USD",
+                "tipo": "NO TIPO",
+                "marca": "NO MARCA",
+                "taller": "NO TALLER"
+          },
+          {
+                "deducible": 20,
+                "copago": 200,
+                "moneda": "USD",
+                "tipo": "Multimarca",
+                "marca": "NO MARCA",
+                "taller": "NO TALLER"
+            }
+         ]
+    },
+    "D314Response": {
+        "payload": [
+            {
+                "deducible": 10,
+                "copago": 500,
+                "moneda": "USD",
+                "tipo": "NO TIPO",
+                "marca": "NO MARCA",
+                "taller": "Nissan Maquinarias"
+            },
+            {
+                "deducible": 10,
+                "copago": 700,
+                "moneda": "USD",
+                "tipo": "NO TIPO",
+                "marca": "NO MARCA",
+                "taller": "NO TALLER"
+            }
+         ]
+    }
+    
+}
